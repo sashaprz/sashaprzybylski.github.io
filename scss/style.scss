@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5 {
 }
 .btn {
 	&.btn-primary {
-		color: $white;
+		color: $green;
 		border-width: 2px;
 		&:hover, &:active, &:focus {
 			border-color: lighten(theme-color('primary'), 10%); 
