@@ -2199,7 +2199,7 @@ fieldset:disabled a.btn {
 .btn-outline-primary {
   color: #007bff;
   background-color: transparent;
-  background-image: none;
+  background-image: https://images.unsplash.com/photo-1679349909423-6f5ffad19302?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80;
   border-color: #007bff; }
   .btn-outline-primary:hover {
     color: #fff;
