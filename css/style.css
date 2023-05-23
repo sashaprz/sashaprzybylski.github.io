@@ -4,7 +4,7 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.8;
-  color: #000000; }
+  color: #343a40; }
 
 a {
   -webkit-transition: .3s all ease;
@@ -15,7 +15,7 @@ a {
     text-decoration: none; }
 
 h1, h2, h3, h4, h5 {
-  color: #000000;
+  color: #343a40;
   font-family: "K2D", sans-serif; }
 
 .btn, .form-control {
@@ -27,8 +27,8 @@ h1, h2, h3, h4, h5 {
   color: #fff;
   border-width: 2px; }
   .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-    border-color: #000000;
-    background: #000000; }
+    border-color: #343a40;
+    background: #343a40; }
 
 .btn.btn-sm {
   font-size: 12px; }
