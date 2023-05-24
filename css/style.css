@@ -537,12 +537,7 @@ header {
     -ms-transform: scale(1.2);
     transform: scale(1.2); }
 <style>
-  .image-container {
-    display: flex;
-    justify-content: center; /* Align images horizontally at the center */}
-  .image-container img {
-    margin: 10px; /* Add some space between images */}
-</style>
+
 </div>
   .link-thumbnail .icon {
     position: absolute;
