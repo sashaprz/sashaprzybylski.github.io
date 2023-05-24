@@ -538,15 +538,11 @@ header {
     transform: scale(1.2); }
 <style>
   .image-container {
-    display: flex; /* Use flexbox layout */
-  }
+    display: flex;
+    justify-content: center; /* Align images horizontally at the center */}
   .image-container img {
+    margin: 10px; /* Add some space between images */}
 </style>
-
-<div class="image-container">
-  <img src="lithoslogo.png" alt="Image 1">
-  <img src="photo-1541873676-a18131494184.webp" alt="Image 2">
-  <img src="graphene.jpg" alt="Image 3">
 </div>
   .link-thumbnail .icon {
     position: absolute;
