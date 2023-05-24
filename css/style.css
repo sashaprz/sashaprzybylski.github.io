@@ -536,6 +536,18 @@ header {
     -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
     transform: scale(1.2); }
+<style>
+  .image-container {
+    display: flex; /* Use flexbox layout */
+  }
+  .image-container img {
+</style>
+
+<div class="image-container">
+  <img src="image1.jpg" alt="Image 1">
+  <img src="image2.jpg" alt="Image 2">
+  <img src="image3.jpg" alt="Image 3">
+</div>
   .link-thumbnail .icon {
     position: absolute;
     -webkit-transition: .3s all ease;
